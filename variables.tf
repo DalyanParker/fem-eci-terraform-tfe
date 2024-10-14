@@ -12,3 +12,8 @@ variable "github_app_installation_name" {
     default = "DalyanParker"
     type    = string
 }
+
+variable "github_organization_name"{
+    default = "DalyanParker"
+    type    = string
+}
